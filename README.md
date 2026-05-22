@@ -2,7 +2,7 @@
 
 Submission notebook for the [Kaggle Titanic Competition](https://www.kaggle.com/competitions/titanic) — predicting passenger survival using machine learning.
 
-🔗 **[View on Kaggle](https://www.kaggle.com/code/hauraalya/submission-vers-1)**
+🔗 **[View on Kaggle](https://www.kaggle.com/code/hauraalya/submission-titanic-final)**
 
 ---
 
