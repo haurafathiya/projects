@@ -65,7 +65,7 @@ This project builds a classification model to predict which passengers survived 
 
 | File | Description |
 |------|-------------|
-| [`submission-vers-1.ipynb`](submission-vers-1.ipynb) | Full notebook: preprocessing, modeling, and prediction |
+| [`submission-titanic-final.ipynb`](submission-titanic-final.ipynb) | Full notebook: preprocessing, modeling, and prediction |
 
 ---
 
